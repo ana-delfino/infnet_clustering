@@ -1,0 +1,7 @@
+.venv/bin
+.venv/bin/Activate.ps1
+.venv/
+
+.csv
+.venv/bin/activate
+.venv/bin/jupyter-kernelspec
